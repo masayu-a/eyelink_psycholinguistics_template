@@ -1,0 +1,6 @@
+practice_stimuli_id	practice_stimuli_label	practice_stimuli	practice_question	practice_expected_answer	practice_answer_button
+1	P1	タヌキはウサギに会ったとキツネに言いました。	タヌキはウサギと会いましたか？	yes	6
+2	P2	フクロウはカワウソが魚をならべるのをじっと見ていました。	フクロウは魚をならべましたか？	no	7
+3	P3	キリンは動物園に来ていた女の子にひとめぼれしました。	キリンは男の子にひとめぼれしましたか？	no	7
+4	P4	庭には二羽ニワトリがいました。	ニワトリは庭にいましたか？	yes	6
+

@@ -1,3 +1,12 @@
+#  
+template/datasets/
+template/library/
+template/myfiles/
+template/runtime/
+template/*.bak
+template/*.pyc
+template/Preferences.properties
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
