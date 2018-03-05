@@ -1,12 +1,12 @@
-stimuli_id	stimuli_label	stimuli	question	expected_answer	answer_button
-1	F1	œœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœ	œœœœœœœœœœH	yes	6
-2	F2	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡	¡¡¡¡¡¡¡¡¡¡H	no	7
-3	TARGET-1-A	bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb	bbbbbbbbbbbH	no	7
-4	F3	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡	¡¡¡¡¡¡¡¡¡¡H	no	7
-5	TARGET-2-B	–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––	–––––––––––H	yes	6
-6	F4	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡	¡¡¡¡¡¡¡¡¡¡H	no	7
-7	TARGET-3-C	bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb	bbbbbbbbbbbH	no	7
-8	F5	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡	¡¡¡¡¡¡¡¡¡¡H	no	7
-9	TARGET-4-D	–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––	–––––––––––H	yes	6
-10	F6	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡	¡¡¡¡¡¡¡¡¡¡H	no	7
+stimuli_id	stimuli_label	stimuli	stimuli_segmented	question	expected_answer	answer_button
+1	F1	œœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœ	œœœ œœœœ œœœœ œœœœ œœœœœ œœœ œœœœ œœœœ œœœ œœœœ œœœœ œœœœ œœ œœœœœ	œœœœœœœœœœH	yes	6
+2	F2	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡	¡¡¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡¡¡¡ ¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡	¡¡¡¡¡¡¡¡¡¡H	no	7
+3	TARGET-1-A	bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb	bbbbbb bbbbb bbbbb bbbbb bbb bbbbb bbbbbb bbbbb bbbbbb bbb bbbb	bbbbbbbbbbbH	no	7
+4	F3	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡	¡¡¡¡¡ ¡¡¡¡ ¡¡ ¡¡¡¡ ¡¡¡¡¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡ ¡¡¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡¡	¡¡¡¡¡¡¡¡¡¡H	no	7
+5	TARGET-2-B	–––––––––––––––––––––––––––––––––––––––––––––––––––––	––––– –––– –– ––––– –––– ––––– ––––– –– –––– ––– –––––––– ––– –––	–––––––––––H	yes	6
+6	F4	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡	¡¡¡¡ ¡¡¡¡ ¡¡¡¡¡¡ ¡¡¡¡ ¡¡ ¡¡¡¡¡¡¡¡ ¡¡¡¡ ¡¡¡ ¡¡¡¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡¡	¡¡¡¡¡¡¡¡¡¡H	no	7
+7	TARGET-3-C	bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb	bbbbbb bbbbb bb bbbbbbbbb bbb bbbb bbbb bbb bbbb bbbb bbbb bbbbb	bbbbbbbbbbbH	no	7
+8	F5	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡	¡¡¡ ¡¡¡¡ ¡¡¡ ¡¡ ¡¡¡¡¡ ¡¡¡¡¡¡ ¡¡¡¡ ¡¡¡ ¡¡¡¡¡ ¡¡¡ ¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡¡	¡¡¡¡¡¡¡¡¡¡H	no	7
+9	TARGET-4-D	–––––––––––––––––––––––––––––––––––––––––––––––––––––	–– ––––– –––– ––– ––––– –––– –––––– –––– ––– –––––– –––– ––– ––––	–––––––––––H	yes	6
+10	F6	¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡	¡¡¡¡¡ ¡¡¡¡¡ ¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡¡¡ ¡¡¡¡ ¡¡¡¡ ¡¡¡ ¡¡¡¡	¡¡¡¡¡¡¡¡¡¡H	no	7
 
