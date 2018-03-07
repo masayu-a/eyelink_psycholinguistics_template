@@ -16,3 +16,8 @@ masayu-a@ninjal.ac.jp
 ## 準備するもの
 * practice.txt	練習用の例文
 * stimuli.txt   本番用の例文
+
+## デモ
+* https://youtu.be/Sh8qUkgL2LE 視線走査実験 EyeLink CL デモ (1)
+* https://youtu.be/bTTTZ7X4_4M 視線走査実験 EyeLink CL デモ (2)
+
